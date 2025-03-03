@@ -14,4 +14,4 @@
 📌 Tech Stack: Windows | Linux | Networking | Active Directory | Microsoft 365 | Google Workspace | PowerShell | Bash
 
 🔗 Let's Connect!
-📧 saikumarsaini08@gmail.com | 🌐 [LinkedIn Profile]
+📧 saikumarsaini08@gmail.com | 🌐 
