@@ -1,8 +1,8 @@
 👋 Hi, I'm Sai Kumar Saini!
 💻 IT Support Engineer | Aspiring DevOps Enthusiast
 
-🔹 Passionate about troubleshooting, IT infrastructure, and optimizing system performance.
-🔹 Experienced in technical support, network administration, and IT security across Windows, macOS, and Linux environments.
+🔹 Passionate about troubleshooting, IT infrastructure, and optimising system performance.
+🔹 Experienced in technical support, network administration, IT security across Windows, macOS, and Linux environments, and Hardware Support.
 🔹 Currently exploring Docker, Kubernetes, Jenkins, and Terraform to automate and streamline IT operations.
 
 🚀 What I'm Learning:
