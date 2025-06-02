@@ -37,7 +37,7 @@ https://github.com/saikumarsaini01/intune-powershell-scripts
 
 ### 🔹 Desktop-Support-Toolkit
 A collection of helpful scripts, tools, and checklists for L1/L2 support engineers.  
-➡️ *Coming soon…*
+https://github.com/saikumarsaini01/desktop-support-toolkit
 
 ### 🔹 DevOps-Lab
 Basic Docker and Kubernetes exercises as I learn containerization and orchestration.  
