@@ -1,12 +1,68 @@
-👋 Hi, I'm Sai Kumar Saini — an experienced IT Support Engineer based in London, UK.
-I specialise in end-user support, incident management, and IT infrastructure maintenance. 
-With hands-on experience using Microsoft Intune, SCCM, Jira Service Management, and remote support tools like TeamViewer and AnyDesk, I ensure seamless IT operations and user satisfaction.
+# 👋 Hi, I'm Sai Kumar Saini
 
-Currently, I'm expanding my skill set by learning DevOps, Kubernetes, cloud-native tools, and scripting with PowerShell and Bash.
+🎯 **IT Support Engineer | Cloud Enthusiast | DevOps Learner**
 
-🛠️ Tools & Skills: Intune | SCCM | AD | Microsoft 365 | Azure | AWS | PowerShell | Jira | Bash  
-🚀 Learning: Docker | Kubernetes | Terraform | CI/CD
+Welcome to my GitHub! I’m a dedicated IT Support Engineer with experience across enterprise environments, offering Level 1 and Level 2 support, infrastructure troubleshooting, and cloud-based solutions. I'm actively expanding my expertise into DevOps, cloud platforms, and automation.
 
-📫 Reach me: [saikumarsaini08@gmail.com](mailto:saikumarsaini08@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/sai-kumar-saini-2a8a43319/) 
-[GitHub](https://github.com/saikumarsaini01)
+---
+
+## 💼 Professional Summary
+
+- 🖥️ 5+ years in IT support across India and the UK
+- 📡 Skilled in remote support (TeamViewer, AnyDesk, RDP) and troubleshooting Windows/macOS environments
+- ☁️ Experienced with Microsoft Intune, SCCM, M365, Azure (basic), and Google Workspace
+- 🔐 Strong background in Active Directory, access control, endpoint security
+- ⚙️ Currently learning Kubernetes, DevOps pipelines, and scripting automation
+
+---
+
+## 🚀 Tech Stack
+
+| Category            | Tools & Platforms |
+|---------------------|------------------|
+| **Cloud & MDM**     | Microsoft Intune, Microsoft 365, Azure (basic), Google Workspace |
+| **ITSM Tools**      | Jira Service Management, Zendesk |
+| **Remote Support**  | TeamViewer, AnyDesk, RDP |
+| **OS & Networking** | Windows 10/11/Server, macOS, basic Linux, DHCP, DNS, TCP/IP, VPN |
+| **Scripting**       | PowerShell (basic), Bash (basic) |
+| **Automation Tools**| SCCM, exploring Terraform, Jenkins, GitHub Actions |
+
+---
+
+## 📁 Highlight Projects
+
+### 🔹 Intune-Scripts-Automation
+Scripts for device compliance, remote wipe, app deployment via Microsoft Intune.  
+➡️ *Coming soon…*
+
+### 🔹 Desktop-Support-Toolkit
+A collection of helpful scripts, tools, and checklists for L1/L2 support engineers.  
+➡️ *Coming soon…*
+
+### 🔹 DevOps-Lab
+Basic Docker and Kubernetes exercises as I learn containerization and orchestration.  
+➡️ *Coming soon…*
+
+### 🔹 Learning-Journey
+Documenting notes, labs, and progress while learning Azure, DevOps, and cloud-native tools.  
+➡️ *Coming soon…*
+
+---
+
+## 📈 GitHub Stats
+
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikumarsaini01&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikumarsaini01&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-kumar-saini-2a8a43319/)
+- 📧 saikumarsaini08@gmail.com
+- 🌍 Based in London, UK | Open to relocation
+
+---
+
+_“I believe in growing every day – from solving support tickets to building cloud-native systems.”_
