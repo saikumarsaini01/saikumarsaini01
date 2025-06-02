@@ -1,17 +1,12 @@
-👋 Hi, I'm Sai Kumar Saini!
-💻 IT Support Engineer | Aspiring DevOps Enthusiast
+👋 Hi, I'm Sai Kumar Saini — an experienced IT Support Engineer based in London, UK.
+I specialise in end-user support, incident management, and IT infrastructure maintenance. 
+With hands-on experience using Microsoft Intune, SCCM, Jira Service Management, and remote support tools like TeamViewer and AnyDesk, I ensure seamless IT operations and user satisfaction.
 
-🔹 Passionate about troubleshooting, IT infrastructure, and optimising system performance.
-🔹 Experienced in technical support, network administration, IT security across Windows, macOS, and Linux environments, and Hardware Support.
-🔹 Currently exploring Docker, Kubernetes, Jenkins, and Terraform to automate and streamline IT operations.
+Currently, I'm expanding my skill set by learning DevOps, Kubernetes, cloud-native tools, and scripting with PowerShell and Bash.
 
-🚀 What I'm Learning:
-✔ Containerization & Orchestration – Docker & Kubernetes
-✔ CI/CD Pipelines – Jenkins
-✔ Infrastructure as Code (IaC) – Terraform
-✔ Cloud Technologies – Azure & AWS
+🛠️ Tools & Skills: Intune | SCCM | AD | Microsoft 365 | Azure | AWS | PowerShell | Jira | Bash  
+🚀 Learning: Docker | Kubernetes | Terraform | CI/CD
 
-📌 Tech Stack: Windows | Linux | Networking | Active Directory | Microsoft 365 | Google Workspace | PowerShell | Bash
-
-🔗 Let's Connect!
-📧 saikumarsaini08@gmail.com | 🌐 
+📫 Reach me: [saikumarsaini08@gmail.com](mailto:saikumarsaini08@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sai-kumar-saini-2a8a43319/) 
+[GitHub](https://github.com/saikumarsaini01)
