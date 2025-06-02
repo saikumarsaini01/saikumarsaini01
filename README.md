@@ -33,7 +33,7 @@ Welcome to my GitHub! I’m a dedicated IT Support Engineer with experience acro
 
 ### 🔹 Intune-Scripts-Automation
 Scripts for device compliance, remote wipe, app deployment via Microsoft Intune.  
-➡️ *Coming soon…*
+https://github.com/saikumarsaini01/intune-powershell-scripts
 
 ### 🔹 Desktop-Support-Toolkit
 A collection of helpful scripts, tools, and checklists for L1/L2 support engineers.  
