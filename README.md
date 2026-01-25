@@ -2,7 +2,7 @@
 
 🎯 **IT Support Engineer | Cloud Enthusiast | DevOps Learner**
 
-Welcome to my GitHub! I’m a dedicated IT Support Engineer with experience across enterprise environments, offering Level 1 and Level 2 support, infrastructure troubleshooting, and cloud-based solutions. I'm actively expanding my expertise into DevOps, cloud platforms, and automation.
+Welcome to my GitHub! I’m a dedicated IT Support Engineer with experience across enterprise environments, offering Level 1 and Level 2 support, infrastructure troubleshooting, and cloud-based solutions.
 
 ---
 
@@ -13,6 +13,7 @@ Welcome to my GitHub! I’m a dedicated IT Support Engineer with experience acro
 - ☁️ Experienced with Microsoft Intune, SCCM, M365, Azure (basic), and Google Workspace
 - 🔐 Strong background in Active Directory, access control, endpoint security
 - ⚙️ Currently learning Kubernetes, DevOps pipelines, and scripting automation
+- 🌟 Recent experience as an **Information Technology Support Analyst** at Rothschild & Co through HCL Tech
 
 ---
 
