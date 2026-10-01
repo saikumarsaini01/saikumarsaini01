@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m a dedicated IT Support Engineer with experience acro
 
 ## 💼 Professional Summary
 
-- 🖥️ 5+ years in IT support across India and the UK
+- 🖥️ 8+ years in IT support across India and the UK
 - 📡 Skilled in remote support (TeamViewer, AnyDesk, RDP) and troubleshooting Windows/macOS environments
 - ☁️ Experienced with Microsoft Intune, SCCM, M365, Azure (basic), and Google Workspace
 - 🔐 Strong background in Active Directory, access control, endpoint security
